@@ -313,6 +313,11 @@ figcaption {
   text-align: center;
 }
 
+.paragraph-bold {
+  text-align: center;
+  font-weight: bold;
+}
+
 .heading-jumbo {
   margin-top: 10px;
   margin-bottom: 10px;
