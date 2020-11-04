@@ -1233,6 +1233,12 @@ figcaption {
   text-align: center;
 }
 
+.work-heading2 {
+  margin-bottom: 0px;
+  color: #fff;
+  text-align: center;
+}
+
 .blog-heading {
   margin-bottom: 60px;
   background-color: #94013c;
